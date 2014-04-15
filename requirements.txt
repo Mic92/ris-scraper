@@ -4,4 +4,7 @@ parse
 pymongo
 pytest
 python-magic
-
+pytz
+cssselect
+requests
+translitcodec
